@@ -1,0 +1,17 @@
+.light{
+    color:rgb(255, 255, 255);
+    background-color: #155341;
+}
+
+.dark{
+    color:#dbbf9f;
+    background-color: #155341;
+}
+
+.lightHTML{
+    background-color:#dbbf9f;
+}
+
+.darkHTML{
+    background-color:rgb(50, 50, 50);
+}
